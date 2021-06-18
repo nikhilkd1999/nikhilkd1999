@@ -51,7 +51,7 @@ I'm [Nikhil Dabhade](https://www.linkedin.com/in/nikhil-dabhade-1519131a7/)
    <div align="center">
    
    [![Linkedin Badge](https://img.shields.io/badge/-NikhilDabhade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhil-dabhade-1519131a7/)](https://www.linkedin.com/in/nikhil-dabhade-1519131a7/)
-   [![Gmail Badge](https://img.shields.io/badge/-nikhilkd1999-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikhilkd1999@gmail.com)](mailto:nikhilkd1999@gmail.com)
+   [![Gmail Badge](https://img.shields.io/badge/-NikhilDabhade-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikhilkd1999@gmail.com)](mailto:nikhilkd1999@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-@_nikhil_dabhade_-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_nikhil_dabhade_/)](https://instagram.com/_nikhil_dabhade_) 
    
    </div>

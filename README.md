@@ -34,8 +34,11 @@ I'm [Nikhil Dabhade](https://www.linkedin.com/in/nikhil-k-dabhade/)
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilkd1999&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkd1999&count_private=true&hide=shell&theme=dracula&line_height=20">
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=nikhilkd1999&show_icons=true&theme=dracula&line_height=33">  -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkd1999&count_private=true&hide=shell&theme=dracula&line_height=20"> -->
+
+<img src="https://github-readme-stats-git-master-nikhils-projects-5cf20432.vercel.app/api?username=nikhilkd1999&show_icons=true&theme=dracula&line_height=33">
+<img src="https://github-readme-stats-git-master-nikhils-projects-5cf20432.vercel.app/api/top-langs/?username=nikhilkd1999&count_private=true&hide=shell&theme=dracula&line_height=20">
 
 </p>
 
